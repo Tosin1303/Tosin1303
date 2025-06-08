@@ -18,11 +18,10 @@ Whether it’s **optimising donor budgets**, **forecasting financial performance
 ---
 ## 💼 What I Bring
 
-✅ Advanced Excel, Power BI, and SQL skills for in-depth analysis and automation  
-✅ Track record of reducing reporting time and increasing documentation accuracy  
+✅ Excel, Power BI, Tableau and SQL skills for in-depth analysis and automation  
 ✅ Hands-on experience managing **£100M+ donor portfolios** with strategic alignment  
-✅ Stakeholder engagement and requirements gathering  
-✅ Proven financial planning and forecasting capabilities
+✅ Stakeholder engagement and requirements gathering
+✅ Financial planning and forecasting capabilities
 
 ---
 ## 🏆 Key Achievements
@@ -39,6 +38,16 @@ Whether it’s **optimising donor budgets**, **forecasting financial performance
 - 📫 **Reach me on:**
 - [LinkedIn](http://www.linkedin.com/in/tosin-mayowa-david)
 - [Email](tmayowa.tmd@gmail.com)
+
+---
+
+## 📂 Featured Projects
+
+Check out some of my recent work:
+- 🔧 **Customer Journey Dashboard** – Interactive Power BI dashboard tracking user behaviour and drop-off points across digital touchpoints.
+- 🧠 **Fraud Risk Analysis Model** – SQL-based engine highlighting suspicious activity patterns in real-time data streams.
+- 📊 **Revenue Growth Analysis** – Tableau-driven tool uncovering upselling opportunities and customer retention insights.
+
 
 
 
